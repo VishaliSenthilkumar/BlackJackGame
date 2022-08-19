@@ -1,0 +1,26 @@
+*{
+    font-family:arial;
+}
+body{
+    background : linear-gradient(rgb(91, 186, 223),rgb(190, 55, 231)); 
+    background-repeat : no-repeat;
+    background-size: cover;
+    background-position : center;
+    background-attachment : fixed;
+    text-align : center;
+}
+p{
+    font-size: 20px;
+}
+button{
+    height:30px;
+    width:150px;
+    background-color:rgb(170, 79, 230);
+    color:#e3f1ff;
+    border-radius:5px;
+    border-color:rgb(146, 11, 219);
+    padding : 2px;
+    font-size:15px;
+    font-style:italic;
+    margin:2px;
+}
